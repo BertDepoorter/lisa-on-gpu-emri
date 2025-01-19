@@ -1,3 +1,7 @@
+# Purpose of Fork
+
+ResponseWrapper class seems to give strange results when combined with FastEMRIWaveforms. Will investigate this.
+
 # fastlisaresponse: Generic LISA response function for GPUs
 
 This code base provides a GPU-accelerated version of the generic time-domain LISA response function. The GPU-acceleration allows this code to be used directly in Parameter Estimation.
